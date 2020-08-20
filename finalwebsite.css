@@ -1,0 +1,67 @@
+body {
+  font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+  margin: 0;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  float: top;
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the header */
+.header {
+  background-color: #f4511e;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+     text-align: center;
+  }
+
+/* Increase the font size of the h1 element */
+.header h1 {
+  font-size: 40px;
+}
+
+
+/* Style the navigation bar links */
+.navbar a.right {
+   float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+  h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+  } 
+  
+.container-fluid {
+    padding: 60px 50px;
+  }
+  .bg-grey {
+    background-color: #f6f6f6;
+  }
